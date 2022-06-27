@@ -18,12 +18,12 @@ Please find a collection of projects and scripts that I worked on. Don't hesitat
 </div>
 
 ### Pinned projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=route53resolver-dns-firewall-automation-bring-your-own-lambda)](https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda)
+[![aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda - GitHub](https://gh-card.dev/repos/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda.svg)](https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda)
 
 ### Latest blog
 <a href="https://www.linkedin.com/pulse/retour-vers-le-futur-du-cloud-guillaume-neau/">Sometimes in english / Sometimes in French</a>
 
 ### Find me on other plateform
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/guillaume-neau-69aaa2109/">
+<a href="https://www.linkedin.com/in/guillaume-neau-69aaa2109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
