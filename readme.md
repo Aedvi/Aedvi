@@ -1,4 +1,4 @@
-<img style="height:5em;width:100%" src="assets/cloud.jpeg"></img>
+<div style="text-align:center"><img style="height:5em;width:80%;" src="assets/cloud.jpeg"></img></div>
 <h1 style="text-align:center">Welcome Everyone</h1>
 
 My name is Guillaume, I'm a <a href="https://en.wikipedia.org/wiki/Corps_de_l%27armement">IETA</a> of france, judo black belt and information security professional now working at Amazon Web Services in Paris (:fr:)
