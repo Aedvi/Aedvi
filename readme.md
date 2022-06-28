@@ -1,4 +1,4 @@
-<div style="text-align:center"><img style="height:5em;width:80%;" src="assets/cloud.jpeg"></img></div>
+<img style="height:5em;width:100%;" src="assets/cloud.jpeg"></img>
 
 <h1 style="text-align:center">Welcome Everyone</h1>
 
@@ -19,7 +19,7 @@ Please find a collection of projects and scripts that I worked on. Don't hesitat
 </div>
 
 ### Pinned projects
-<a href="https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda"><img src="https://gh-card.dev/repos/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda.svg"></a>
+<a href="https://github.com/aws-samples/route53resolver-dns-firewall-automation-bring-your-own-lambda"><img style="height:20%;width:20%;" src="assets/project/bring-your-own-lambda.png"></img></a>
 
 ### Latest blog
 <a href="https://www.linkedin.com/pulse/retour-vers-le-futur-du-cloud-guillaume-neau/">Sometimes in english / Sometimes in French</a>
