@@ -8,6 +8,8 @@ I have over 10 years of professional experience. I've lost access to my GitHub a
 
 I've worked in many security-related fields, including program management, public policy, technical sales, security engineering, and software engineering.
 
-For the past five years, I've been working at Amazon, where I developed a strong interest in the security of large language models (LLMs) — both securing the models themselves and exploring how they can enhance and accelerate security operation.
+After 6 years at Amazon where I developed a strong interest in the security of large language models (LLMs) — both securing the models themselves and exploring how they can enhance and accelerate security operation.
+
+I moved to mistral to further build security capabilities associated with model and drive security exploration in this new age.
 
 I'm also active on [LinkedIn](https://www.linkedin.com/in/guillaume-neau-69aaa2109/) — feel free to connect.
