@@ -10,6 +10,6 @@ I've worked in many security-related fields, including program management, publi
 
 After 6 years at Amazon where I developed a strong interest in the security of large language models (LLMs) — both securing the models themselves and exploring how they can enhance and accelerate security operation.
 
-I moved to mistral to further build security capabilities associated with model and drive security exploration in this new age.
+I moved to mistral to further build security capabilities associated with models and drive security exploration in this new age.
 
 I'm also active on [LinkedIn](https://www.linkedin.com/in/guillaume-neau-69aaa2109/) — feel free to connect.
